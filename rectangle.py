@@ -53,9 +53,8 @@ print("*****")
 '''
 
 1. This is your first "real" lab. What is one thing that you struggled with?
-
-
-
+I used print() thinking I needed it to create a space but I didn't look like the sample output. 
+I also don't know why I have to use the 4 git commands to save my work.
 
 
 '''
